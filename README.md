@@ -148,7 +148,7 @@ For any queries and improvements please reach out to johnmoorthi85131@gmail.com
 
 # Thank You
 
-We appreciate your interest in our project and hope that you find it useful. Your contributions and adherence to the project's license are valuable to us.
+We appreciate your interest in our project and hope that you find it useful.
 
 
 
